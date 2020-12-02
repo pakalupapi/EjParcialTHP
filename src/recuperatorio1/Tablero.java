@@ -2,7 +2,7 @@ package recuperatorio1;
 import java.util.ArrayList;
 public class Tablero {
 	private final int CANT_MINIMA_LUCES = 3;
-	private final int CANT_MAXIMA_LUCES = 2;
+	private final int CANT_MAXIMA_LUCES = 20;
 	private Telon telon;
 	private int cantMaxLuces;
 	private ArrayList<Lampara> luces;
